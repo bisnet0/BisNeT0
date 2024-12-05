@@ -1,5 +1,5 @@
 <!-- 
---------------------------
+----------------------------
 PARABENS!!! Você encontrou Rick Astley. 
 A partir de agora ele:
 nunca vai desistir de você,
@@ -8,7 +8,7 @@ nunca vai te trair e te deixar,
 nunca vai te fazer chorar,
 nunca vai dizer adeus,
 nunca vai mentir e te magoar.
- ---------------------------
+ ----------------------------
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⢀⣶⣿⣿⣿⣿⣿⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
