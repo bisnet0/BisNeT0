@@ -30,12 +30,13 @@ nunca vai mentir e te magoar.
 ⢹⣿⣵⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣯⡁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 -->
-<img src="assets/BnY.png" alt="Henrique Bisneto">
+<img src="assets/asset.png" alt="Henrique Bisneto's banner">
 
-# Hello there! I am Henrique Bisneto 🫡
-> A 25-year-old Brazilian System Analyst with a degree in Systems Analysis and Development, passionate about web development and creating innovative solutions. Currently, I work with Node.js and React, and I’m exploring Angular. I also have experience with Java and Spring from previous projects. Let's connect on LinkedIn!
+# Hello there! I am Henrique Bisneto 👩🏻‍💻
+> A 25-year-old Brazilian Developer with a degree in Systems Analysis and Development, passionate about web development and creating innovative solutions. Currently, I work with Node.js and React, and I’m exploring Angular. I also have experience with Java and Spring from previous projects. Let's connect on LinkedIn!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bisnet0/)
+[![Discord](https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/s7sum6zZ)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bisnet0&color=blue)
 
