@@ -30,10 +30,12 @@ nunca vai mentir e te magoar.
 ⢹⣿⣵⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣯⡁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 -->
-# Hello there! I am Henrique Bisneto 🫡
-_A Brazilian system analyst with a passion for learning and developing innovative solutions. Connect with me on LinkedIn!_
+<img src="assets/BnY.png" alt="Henrique Bisneto">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bisnet0/)
+# Hello there! I am Henrique Bisneto 🫡
+> A 25-year-old Brazilian System Analyst with a degree in Systems Analysis and Development, passionate about web development and creating innovative solutions. Currently, I work with Node.js and React, and I’m exploring Angular. I also have experience with Java and Spring from previous projects. Let's connect on LinkedIn!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bisnet0/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bisnet0&color=blue)
 
@@ -43,16 +45,16 @@ _A Brazilian system analyst with a passion for learning and developing innovativ
 ### Currently, I work with Node.js and React, but I have some projects in Java with Spring. Also, I am exploring other languages and frameworks such as PHP Laravel. 
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white" alt="Spring" />
-    <img src="https://img.shields.io/badge/Python-14354C?style=plastic&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white" alt="Flask" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=plastic&logo=node.js&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </div>
 
 ---
