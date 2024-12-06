@@ -30,7 +30,7 @@ nunca vai mentir e te magoar.
 ⢹⣿⣵⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣯⡁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 -->
-<img src="assets/aset.png" alt="Henrique Bisneto's banner">
+<img src="assets/asset.png" alt="Henrique Bisneto's banner">
 
 # Hello there! I am Henrique Bisneto 👩🏻‍💻
 > A 25-year-old Brazilian Developer with a degree in Systems Analysis and Development, passionate about web development and creating innovative solutions. Currently, I work with Node.js and React, and I’m exploring Angular. I also have experience with Java and Spring from previous projects. Let's connect on LinkedIn!
