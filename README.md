@@ -33,7 +33,7 @@ nunca vai mentir e te magoar.
 <img src="assets/new_banner.png" alt="Henrique Bisneto's banner">
 
 # Hello there! I am Henrique Bisneto 👩🏻‍💻
-> A 25-year-old Brazilian Developer with a degree in Systems Analysis and Development, passionate about web development and creating innovative solutions. Currently, I work with Node.js and React, and I’m exploring Angular. I also have experience with Java and Spring from previous projects. Let's connect on LinkedIn!
+> A 26-year-old Brazilian Developer with a degree in Systems Analysis and Development, passionate about web development and creating innovative solutions. Currently, I work with Node.js and React, and I’m exploring Angular. I also have experience with Java and Spring from previous projects. Let's connect on LinkedIn!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bisnet0/)
 [![LinkedIn](https://img.shields.io/badge/Portfolio-yellow?style=for-the-badge&logo=vite&logoColor=white)](https://henriquebisneto.com.br/)
@@ -69,8 +69,8 @@ nunca vai mentir e te magoar.
 
 ## 📊 GitHub Stats
 
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bisnet0&theme=vision_friendly_dark)
-![Most Used Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bisnet0&theme=vision_friendly_dark)
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bisnet0&theme=vision_friendly_dark)
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bisnet0&theme=blueberry)
+![Most Used Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bisnet0&theme=blueberry)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bisnet0&theme=blueberry)
 
 
